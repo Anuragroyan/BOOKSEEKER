@@ -1,0 +1,53 @@
+.checkout {
+    flex:356px;
+    background-color: whitesmoke;
+    width:345px;
+    height: 250px;
+    border-radius: 23px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    margin-left: 1196px;
+    position: sticky;
+}
+
+.sum {
+    margin-top: 23px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 22px;
+    color:black;
+    float: left;
+    margin-left: 14px;
+    position: absolute;
+}
+
+.total {
+    padding-top: 102px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 22px;
+    color:black;
+    text-indent: -234px;
+}
+
+.item {
+    margin-top: -51px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 22px;
+    color:black;
+    text-indent: -83px;
+}
+
+.amt {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 22px;
+    color:black;
+    margin-top: -48px;
+    margin-left: 243px;
+}
+
+.buttons {
+    margin-top: 46px;
+}

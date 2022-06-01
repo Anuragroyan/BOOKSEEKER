@@ -1,0 +1,57 @@
+.picture {
+    height: 250px;
+    width:350px;
+    margin-left: -723px;
+    border-radius: 23px;
+}
+  
+
+.Info1 {
+   margin-top: -222px;
+   font-size: 23px;
+   font-weight: bolder;
+}
+
+.title {
+   text-indent: -34px;
+   position: sticky;
+   color:black;
+}
+
+.qty {
+    text-indent: 784px; 
+    color:black; 
+}
+
+.desc {
+    text-indent: -234px;
+    margin-top:-15px;
+    color:black;
+}
+
+.trash {
+    text-indent: 824px;
+}
+
+.price {
+    text-indent: -244px;
+    margin-top: -3px;
+    color:black;
+}
+
+.qty2 {
+    width:75px;
+    border-radius: 12px;
+    color:black;
+}
+
+.main {
+    background-color: whitesmoke;
+    float:left;
+    border-radius: 23px;
+    margin-top: 8px;
+    margin-left: 75px;
+    width:1070px;
+    height: 250px;
+    margin-bottom: 25px;
+}

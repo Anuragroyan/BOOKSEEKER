@@ -1,0 +1,89 @@
+.i1 {
+    height: 250px;
+    width: 250px;
+    border-radius: 12px;
+    float:left;
+    margin-left:-32px;
+    margin-top: -32px;
+}
+
+
+.product_info {
+   text-transform: capitalize;
+   color: black;
+   font-style: oblique;
+   margin-top: -32px;
+}
+
+.container {
+    padding: 32px;
+    height: 250px;
+    width: 980px;
+    background: aliceblue;
+    margin-top: 42px;
+    border-radius: 12px;
+    margin-bottom: 32px;
+}
+
+
+.title_info {
+    text-transform: capitalize;
+    text-indent: -410px;
+    margin-top: 32px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.desc_info {
+    text-transform: capitalize;
+    text-indent: -280px;
+    margin-top: 32px;
+    margin-right: -204px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+
+.desc_category {
+    text-transform: capitalize;
+    text-indent: -773px;
+    margin-top: 32px;
+    margin-right: -204px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+
+.price_info {
+    text-transform: capitalize;
+    text-indent: -580px;
+    margin-top: 32px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.view {
+    margin-top: 32px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    font-weight: bolder;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.cart {
+    margin-top: -72px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    font-weight: bolder;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.button {
+    float:right;
+    margin-top: -152px;
+    font-weight: bolder;
+}
+
+

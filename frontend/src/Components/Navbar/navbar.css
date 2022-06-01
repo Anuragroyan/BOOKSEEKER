@@ -1,0 +1,9 @@
+#img {
+    margin-left: -10px;
+    padding: auto;
+    background-color:hsla(68, 78%, 91%, 0.24);
+    border-radius: 121px;
+}
+#about {
+    font-size: small;
+}

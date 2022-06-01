@@ -1,0 +1,72 @@
+.app {
+  margin-top: 73px;
+  height: 350px;
+  width: 950px;
+  background-color: whitesmoke;
+  margin-left: 356px;
+  margin-bottom: 34px;
+  border-radius: 23px;
+}
+
+.product1_info {
+    text-transform: capitalize;
+    color: black;
+    font-style: oblique;
+    margin-top: -362px;
+}
+.title1_info {
+    text-transform: capitalize;
+    text-indent: 210px;
+    margin-top: 32px;
+    font-weight: bolder;
+    font-size: 26px;
+}
+.desc1_category {
+    text-transform: capitalize;
+    text-indent: 210px;
+    margin-top: 32px;
+    font-weight: bolder;
+    font-size: 24px;
+}
+.desc1_info {
+    text-transform: capitalize;
+    text-indent: 210px;
+    margin-top: 32px;
+    font-weight: bolder;
+    font-size: 15px;
+    margin-right: -149px;
+}
+.price1_info {
+    text-transform: capitalize;
+    text-indent: 210px;
+    margin-top: 32px;
+    font-weight: bolder;
+    font-size: 24px;
+}
+.button1 {
+    border-radius: 13px;
+    margin-top: 24px;
+    font-weight: bolder;
+    height: 44px;
+    font-size: 22px;
+    text-transform: capitalize;
+    color: black;
+    font-style: italic;
+    margin-left: 225px;
+}
+
+.photo {
+    margin-top: -2px;
+    height: 352px;
+    width: 352px;
+    margin-left: -595px;
+    border-radius: 23px;
+}
+
+.buttons1 {
+    text-transform: capitalize;
+    color: black;
+    font-style: italic;
+    border-radius: 13px;
+    font-weight: bolder;
+}
