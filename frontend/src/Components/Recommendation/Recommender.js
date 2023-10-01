@@ -9,7 +9,7 @@ const Recommender = () => {
     <div className="recommends">
     <h1 className="recommends">Book Recommender</h1>
     <img src={book_1} height="440px" width="1050px" />
-     <p className="results"><a href="http://127.0.0.1:9000">Recommendations</a></p>
+     <p className="results"><a href="http://127.0.0.1:5000">Recommendations</a></p>
    </div>
    </>
    );
