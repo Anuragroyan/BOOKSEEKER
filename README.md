@@ -1,2 +1,4 @@
-# BOOKSEEKER
-Bookseeker is a web-based electronic commerce application that provides a unified platform for the sale of printed copy and electronic copy books. The author can provide the book for sale and get reward points when the reader read the book. The readers/user can obtain the hard copy or softcopy of the book. The user can also take subscription plans to get the book at the nominal price. The user can pay for the purchase of the books and subscription plans. The user can provide the feedback and likes to the book which will be added as a reward points to the author. The application also provides content-based recommendation of books to the readers. In addition, readers can able to suggest books to other readers.
+![Picture1](https://github.com/Anuragroyan/BOOKSEEKER/assets/38952781/c03fe431-03fc-44bc-8de4-9ec8b61fb585)
+![Picture2](https://github.com/Anuragroyan/BOOKSEEKER/assets/38952781/e5b6fc79-28c9-42f6-bf19-bef0ce84e355)
+![Picture3](https://github.com/Anuragroyan/BOOKSEEKER/assets/38952781/23526440-787f-450c-b2e1-396d0b9194ef)
+![Picture4](https://github.com/Anuragroyan/BOOKSEEKER/assets/38952781/bc6d58ef-ad54-4b9d-84e4-6dc2d59cd759)
